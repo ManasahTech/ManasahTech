@@ -1,7 +1,7 @@
 {
     "name": "manasahtech/manasahtech",
-    "description": "ManasahTech is a robust and intuitive PHP web framework. It provides developers with a set of powerful tools and features that make building complex web applications a streamlined and efficient process, even for those new to PHP.",
-    "keywords": ["laravel", "framework"],
+    "description": "ManasahTech-Platform is a robust and intuitive PHP web platform. It provides developers with a set of powerful tools and features that make building complex web applications a streamlined and efficient process, even for those new to PHP.",
+    "keywords": ["manasahtech", "platform"],
     "type": "project",
     "license": "MIT",
     "version": "1.0.0",
