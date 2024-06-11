@@ -21,7 +21,8 @@
         }
     ],
     "require": {
-        "manasahtech/framework": "^1.0"
+        "manasahtech/framework": "^1.0",
+        "manasahtech/mariadb": "^1.0"
     },
     "minimum-stability": "stable",
     "prefer-stable": true
